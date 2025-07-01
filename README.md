@@ -41,7 +41,7 @@ This project presents a text summarization system capable of generating concise 
 
 # Team Members — Group No. 32
 
-Santwana Behara(Team Leader)
+Santwana Behera(Team Leader)
 
 Shibin Malakot
 
